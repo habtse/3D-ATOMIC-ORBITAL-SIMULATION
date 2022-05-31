@@ -1,10 +1,19 @@
 # 3D-ATOMIC-ORBITAL-SIMULATION
+
+Project Description
+
+The main goal of this project is to visualize and simulate the structure of atomic orbitals that we have learnt in lower grades. 
+
+project Usefulness
+
+This project used for any one who wants to know about orbitals structure and it supports him/her by showing the 3d structure of orbitals this makes him/her to understand more about the orbitals structure rather than learning theoretically.
+
+
+
 Group members
 
-    Hailemariam Kefale --UGR/0652/12
-    Habtamu Tsegaye --UGR/7096/12
+         Name                  ID   
+    Hailemariam Kefale    UGR/0652/12
+    Habtamu Tsegaye       UGR/7096/12
 
-Description
-
-The main goal of this computer graphics project is to visualize and simulate the structure of atomic orbitals that we have learnt in lower grades.
 
