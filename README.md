@@ -1,10 +1,10 @@
 # 3D-ATOMIC-ORBITAL-SIMULATION
 
-#  Project Description
+#  Description
 
 The main goal of this project is to visualize and simulate the structure of atomic orbitals that we have learnt in lower grades. 
 
-#  project Usefulness
+#  Usefulness
 
 This project used for any one who wants to know about orbitals structure and it supports him/her by showing the 3d structure of orbitals this makes him/her to understand more about the orbitals structure rather than learning theoretically.
 
