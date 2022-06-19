@@ -4,5 +4,5 @@ in vec2 outTex;
 
 out vec4 outColor;
 void main(){
-    outColor = vec4(1.0, 1.0, 0.0, 0.0003);
+    outColor = vec4(.2, .8, 0.8, 1.);
 }
